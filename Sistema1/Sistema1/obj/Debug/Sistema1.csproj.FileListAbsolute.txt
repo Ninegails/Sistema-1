@@ -1,0 +1,11 @@
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema1\Sistema1\bin\Debug\Sistema1.exe.config
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema1\Sistema1\bin\Debug\Sistema1.exe
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema1\Sistema1\bin\Debug\Sistema1.pdb
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema1\Sistema1\obj\Debug\Sistema1.csprojAssemblyReference.cache
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema1\Sistema1\obj\Debug\Sistema1.Form1.resources
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema1\Sistema1\obj\Debug\Sistema1.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema1\Sistema1\obj\Debug\Sistema1.csproj.GenerateResource.cache
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema1\Sistema1\obj\Debug\Sistema1.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema1\Sistema1\obj\Debug\Sistema1.exe
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema1\Sistema1\obj\Debug\Sistema1.pdb
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema1\Sistema1\obj\Debug\Sistema1.Clientes.resources
